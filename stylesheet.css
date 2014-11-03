@@ -45,6 +45,7 @@ margin-left: 40%;
     padding-bottom: 50px;
 }
 
-.nav-pills > .active > a, .nav-pills > .active > a:hover {
+.red .active a,
+.red .active a:hover {
     background-color: red;
 }
