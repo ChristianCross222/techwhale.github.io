@@ -45,3 +45,7 @@ margin-left: 40%;
     padding-bottom: 50px;
 }
 
+.red .active a,
+.red .active a:hover {
+    background-color: red;
+}
