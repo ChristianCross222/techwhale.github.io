@@ -19,6 +19,25 @@
         
 	</head>
   <body style="background-color: #66c0b7">
+  <!--facebook-->
+  <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '753634058043197',
+      xfbml      : true,
+      version    : 'v2.2'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<!--end of facebook code-->
   <div class="nav">
     <div class="container">
         <nav class="navbar navbar-inverse" role="navigation"  style="padding: 10px">
