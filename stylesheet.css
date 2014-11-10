@@ -53,14 +53,16 @@ img {
 .name {
   display: inline;
   padding-left: 100px;
-  padding-right: 100px;  
+  padding-right: 100px;
 }
 
 #cof {
   padding-right: 30px;
+  padding-left: 100px;
 }
 
 
 #emp {
   padding-left: 30px;
+  padding-right: 100px;
 }
