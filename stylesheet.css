@@ -39,3 +39,7 @@ img {
   border-radius: 100%;
 
 }
+
+.nav {
+  border-radius: 0;
+}
