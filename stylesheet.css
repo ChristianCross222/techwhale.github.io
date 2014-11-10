@@ -52,6 +52,7 @@ img {
 
 .name {
   display: inline;
+  text-align: center;
 }
 
 #cof {
@@ -60,5 +61,5 @@ img {
 
 
 #emp {
-  padding-left: 30px; 
+  padding-left: 30px;
 }
