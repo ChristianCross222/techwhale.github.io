@@ -3,8 +3,12 @@ hr {
   width: 60%;
 }
 
-img {
+img.center {
   max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 #gallery {
@@ -25,7 +29,7 @@ img {
   display: inline-block;
   text-decoration: none;
   text-align: center;
-  img-align: middle;
+
 }
 
 #ben {
