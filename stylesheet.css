@@ -52,8 +52,7 @@ img {
 
 .name {
   display: inline;
-  padding-left: 100px;
-  padding-right: 100px;
+  margin: auto;
 }
 
 #cof {
@@ -64,5 +63,5 @@ img {
 
 #emp {
   padding-left: 30px;
-  padding-right: 100px; 
+  padding-right: 100px;
 }
