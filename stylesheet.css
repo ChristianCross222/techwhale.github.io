@@ -23,6 +23,8 @@ img {
 
 .co {
   display: inline-block;
+  margin-right: 50px;
+  margin-left: 50px;
   text-decoration: none;
   text-align: center;
 
