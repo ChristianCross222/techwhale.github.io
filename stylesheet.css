@@ -43,3 +43,9 @@ img {
 .nav {
   border-radius: 0px;
 }
+
+#gallery li img {
+  height: 80px;
+  width: 80px;
+  max-width: 100%;
+}
