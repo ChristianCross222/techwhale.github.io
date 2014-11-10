@@ -1,5 +1,5 @@
 hr {
-  border-color: #000; 
+  border-color: #000;
   width: 60%;
 }
 
@@ -20,6 +20,10 @@ img {
   background-color: #fff;
   color: #000;
 }
-  
 
-
+#ben {
+  max-width: 100%;
+  margin: 2.5%;
+  height: 200px;
+  width: 200px;
+}
