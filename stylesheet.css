@@ -24,6 +24,7 @@ img {
 .co {
   display: inline;
   text-decoration: none;
+  text-align: auto;
 }
 
 #ben {
