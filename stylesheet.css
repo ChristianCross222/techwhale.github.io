@@ -22,7 +22,7 @@ img {
 }
 
 .co {
-  display: inline;
+  display: inline-block;
   text-decoration: none;
   text-align: center;
 }
