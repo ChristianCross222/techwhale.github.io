@@ -53,4 +53,5 @@ img {
 .name {
   display: inline;
   margin: auto;
+  text-align: center;
 }
