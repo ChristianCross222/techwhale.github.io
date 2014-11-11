@@ -54,18 +54,3 @@ img {
   display: inline;
   margin: auto;
 }
-
-#cof {
-  padding-right: 30px;
-  padding-left: 100px;
-}
-
-
-#emp {
-  padding-left: 30px;
-  padding-right: 100px;
-}
-.footertxt {
-  margin: auto;
-  padding: 0;
-}
