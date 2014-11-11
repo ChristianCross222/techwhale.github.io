@@ -16,7 +16,7 @@ img {
 
 #gallery li {
   float: left;
-  width: 45%;
+  width: 100%;
   margin: 2.5%;
   background-color: #fff;
   color: #000;
@@ -46,8 +46,8 @@ img {
 }
 
 #gallery li img {
-  height: 80px;
-  width: 80px;
+
+  
   max-width: 100%;
 }
 
