@@ -47,8 +47,12 @@ img {
 
 #gallery li img {
 
-  
+
   max-width: 100%;
+}
+
+#center-img {
+  margin: auto;
 }
 
 .name {
