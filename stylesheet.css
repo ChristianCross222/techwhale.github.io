@@ -52,6 +52,6 @@ img {
 
 .name {
   display: inline;
-  margin: auto;
-  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
 }
