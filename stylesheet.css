@@ -21,14 +21,7 @@ img {
 }
 
 #gallery li {
-  float: left;
-  width: 100%;
-  margin: 2.5%;
-  background-color: #fff;
-  color: #000;
-  display: block;
-  margin-left: auto;
-   margin-right: auto;
+
 }
 
 .co {
@@ -54,11 +47,6 @@ img {
   border-radius: 0px;
 }
 
-#gallery li img {
-
-
-  max-width: 100%;
-}
 
 #center-img {
   display: block;
@@ -82,3 +70,30 @@ img {
   padding-bottom: 500px;
 }
  /*yup*/
+ /****************************
+ REVIEWS: IPHONE
+ ****************************/
+ .iphone {
+   font-size: 25px;
+ }
+
+ #center-img {
+   display: block;
+   margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+ }
+
+ #gallery li img {
+   max-width: 100%;
+   float: middle;
+   width: 700px;
+   height: 500px;
+   margin: 2.5%;
+   background-color: #66c0b7;
+   color: #000;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
