@@ -26,6 +26,9 @@ img {
   margin: 2.5%;
   background-color: #fff;
   color: #000;
+  display: block;
+  margin-left: auto;
+   margin-right: auto;
 }
 
 .co {
@@ -60,7 +63,7 @@ img {
 #center-img {
   display: block;
   margin-left: auto;
-   margin-right: auto
+   margin-right: auto;
 }
 
 .name {
