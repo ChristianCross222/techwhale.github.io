@@ -1,3 +1,14 @@
+body {
+
+padding-top: 71px;  
+
+
+
+
+}
+
+
+
 
 hr {
   border-color: #000;
@@ -59,7 +70,7 @@ img {
 
 .name {
   display: inline;
-  text-align: center; 
+  text-align: center;
 }
 /* /* /* /* /* /* /* /* /* /* /* /* /* /* /* /* /* /* /*
 /*Apps.html MTP (Moon Tunnelz Preview) */
