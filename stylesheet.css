@@ -1,7 +1,21 @@
 .body {
 padding-top: 71px;
 }
+/*********************
+     JUMBOTRON
+*********************/
+.jumbotron {
+  background-image: url("SF.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  color: white;
+}
 
+
+/*****************
+      BYTE
+*****************/
 .byte {
   padding-top: 30px;
   padding-bottom: 30px;
