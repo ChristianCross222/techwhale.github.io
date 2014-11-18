@@ -5,11 +5,13 @@ padding-top: 71px;
      JUMBOTRON
 *********************/
 .jumbotron {
-  background-image: url("SF.png");
+  background-image: url("GG.png");
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  height: 100%;
   width: 100%;
   color: white;
+  margin-bottom: 50px;
 }
 
 
@@ -17,7 +19,7 @@ padding-top: 71px;
       BYTE
 *****************/
 .byte {
-  padding-top: 30px;
+  padding-top: -10px;
   padding-bottom: 30px;
   margin: auto;
 }
@@ -49,26 +51,44 @@ img {
 
 }
 
+/*****************
+    Co-Founder's
+*****************/
 .co {
-  display: inline-block;
-  margin-right: 90px;
-  margin-left: 90px;
-  text-decoration: none;
-  font-size: 30px;
-
-
+  display: inline;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .profile {
   max-width: 100%;
-  margin: 2.5;
+  margin: 10px;
   padding: 5px;
   height: 70px;
   width: 70px;
   border-radius: 100%;
+  float: left;
+}
+
+.positioning {
+  font-size: 20px;
+  color: #000;
+  display: block;
+  padding-top: 20px;
+  vertical-align: top;
 
 }
 
+.founder {
+  font-size: 20px;
+
+  color: #000;
+  margin-top: -100px;
+  vertical-align:top;
+
+}
+
+/* End */
 .nav {
   border-radius: 0px;
 }
@@ -125,5 +145,14 @@ img {
    color: #000;
    display: block;
    margin-left: auto;
+   margin-right: auto;
+ }
+
+ /****************************
+ NEWS: TWITTER
+ ****************************/
+
+ #twitter {
+   marign-left: auto;
    margin-right: auto;
  }
