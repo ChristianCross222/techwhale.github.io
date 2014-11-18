@@ -54,7 +54,7 @@ img {
 /*****************
     Co-Founder's
 *****************/
-.co {
+/*.co {
   display: inline;
   margin-left: auto;
   margin-right: auto;
@@ -88,7 +88,7 @@ img {
 
 }
 
-/* End */
+ End */
 .nav {
   border-radius: 0px;
 }
@@ -151,8 +151,3 @@ img {
  /****************************
  NEWS: TWITTER
  ****************************/
-
- #twitter {
-   marign-left: auto;
-   margin-right: auto;
- }
