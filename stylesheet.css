@@ -70,14 +70,14 @@ img {
   float: left;
 }
 
-/*.positioning {
+.positioning {
   font-size: 20px;
   color: #000;
   display: block;
   padding-top: 20px;
   vertical-align: top;
 
-}
+} /*
 
 .founder {
   font-size: 20px;
