@@ -56,39 +56,46 @@ img {
 *****************/
 .co {
   display: inline;
-  /*margin-left: auto;
-  margin-right: auto;*/
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .profile {
   max-width: 100%;
-  margin: 10px;
+  margin-left: 0px;
   padding: 5px;
-  height: 70px;
-  width: 70px;
+  height: 80px;
+  width: 80px;
   border-radius: 100%;
   float: left;
+  margin-bottom: 5px;
 }
 
 .positioning {
-  font-size: 20px;
+  font-size: 25px;
   color: #000;
   display: block;
-  padding-top: 20px;
-  vertical-align: top;
+  padding-top: 10px;
+  margin-left: 0px;
+  padding-left: 0px;
 
-} /*
 
-.founder {
-  font-size: 20px;
 
-  color: #000;
-  margin-top: -100px;
-  vertical-align:top;
 
 }
 
- End */
+.founder {
+  font-size: 25px;
+  padding-left: 0px;
+  color: #000;
+  text-align: left;
+  padding-bottom: 20px;
+
+
+}
+
+ /*End */
 .nav {
   border-radius: 0px;
 }
