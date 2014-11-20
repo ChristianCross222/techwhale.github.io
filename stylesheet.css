@@ -54,10 +54,9 @@ img {
 /*****************
     Co-Founder's
 *****************/
-.co {
-  display: inline;
-  margin-left: auto;
-  margin-right: auto;
+#co {
+  display: inline-block;
+
 
 }
 
@@ -70,6 +69,7 @@ img {
   border-radius: 100%;
   float: left;
   margin-bottom: 5px;
+
 }
 
 .positioning {
@@ -91,6 +91,7 @@ img {
   color: #000;
   text-align: left;
   padding-bottom: 20px;
+
 
 
 }
