@@ -130,8 +130,24 @@ img {
 }
  /*yup*/
  /****************************
+ REVIEWS: TW
+ ****************************/
+ #TWR {
+   text-align: center;
+   margin-top: 30px;
+   margin-bottom: 80px;
+
+ }
+
+
+
+ /****************************
  REVIEWS: IPHONE
  ****************************/
+ #iphone_name {
+   padding-top: 50px;
+   text-align: center;
+ }
  .iphone {
    font-size: 25px;
  }
@@ -183,4 +199,5 @@ img {
    margin-left: 300px;;
    margin-right: 300px;
    font-size: 25px;
+   padding-top: 80px;
  }
