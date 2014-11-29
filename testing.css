@@ -1,36 +1,36 @@
 /*****************
-Co-Founder's
-*****************/
+NAVIGATION BAR
+*****************
+.nav ul {
+  list-style: none;
+  margin: 50px;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 20px;
+  float: right;
+  background-color: #66c0b7;
+  width: 100%;
+  height: 100%;
+}
 
-
-.profile {
-  max-width: 100%;
-  margin: 0 auto;
-  height: 80px;
-  width: 80px;
-  border-radius: 100%;
-
+.nav li {
+  display: inline;
 
 }
 
-.positioning {
-  font-size: 25px;
-  color: #000;
-  display: block;
-  text-align: center;
-
-
-
-
-
-
-
+.nav a {
+  text-decoration: none;
 }
 
-.founder {
+body {
+  background-color: #0099FF;
+} */
 
-  text-align: center;
-  clear: both;
+.navbar {
+  background-color: transparent;
+  background: transparent;
+}
 
-
+.navbar:hover {
+  background-color: #999;
 }
