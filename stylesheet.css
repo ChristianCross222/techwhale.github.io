@@ -156,7 +156,31 @@ img {
    margin-left: auto;
    margin-right: auto;
  }
+ /****************************
+ REVIEWS: BACK TO TOP
+ ****************************/
+
+ #BT {
+   margin: 50px;
+ }
+
 
  /****************************
  NEWS: TWITTER
  ****************************/
+
+
+
+
+
+
+
+ /****************************
+ REVIEWS: LH G3
+ ****************************/
+ #LG {
+   text-align: center;
+   margin-left: 300px;;
+   margin-right: 300px;
+   font-size: 25px;
+ }
