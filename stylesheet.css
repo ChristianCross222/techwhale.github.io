@@ -68,9 +68,14 @@ img {
   height: 80px;
   width: 80px;
   padding-right: 0px;
+  color: #0099FF;
 
 
- /*End */
+}
+.co a {
+  color: #000;
+}
+/*end*/
 .nav {
   border-radius: 0px;
 }
