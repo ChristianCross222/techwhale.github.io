@@ -161,9 +161,15 @@ img {
 
 
  /****************************
- NEWS: TWITTER
+ NEWS
  ****************************/
+.news {
+  text-align: center;
+}
 
+.news a {
+  color: white;
+}
 
 
 
