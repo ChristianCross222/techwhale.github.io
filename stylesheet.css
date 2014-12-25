@@ -88,7 +88,7 @@ img {
 #center-img {
   display: block;
   margin-left: auto;
-   margin-right: auto;
+  margin-right: auto;
 }
 
 .name {
@@ -197,3 +197,54 @@ img {
    font-size: 25px;
    padding-top: 80px;
  }
+
+ #xmas {
+   color: red;
+   font-family: "Comic Sans MS";
+   -webkit-animation: colors 2s;
+   -webkit-animation-iteration-count: infinite;
+   -moz-animation: colors 2s;
+   -moz-animation-iteration-count: infinite;
+   -o-animation: colors 2s;
+   -o-animation-iteration-count: infinite;
+ }
+
+@-webkit-keyframes colors {
+   0% {
+     color: red;
+   } 50% {
+     color: green;
+   } 100% {
+     color: red;
+   }
+}
+
+@-moz-keyframes colors {
+    0% {
+      color: red;
+    } 50% {
+      color: green;
+    } 100% {
+      color: red;
+    }
+}
+
+@-o-keyframes colors {
+    0% {
+      color: red;
+    } 50% {
+      color: green;
+    } 100% {
+      color: red;
+    }
+}
+
+@keyframes colors {
+    0% {
+      color: red;
+    } 50% {
+      color: green;
+    } 100% {
+      color: red;
+    }
+}
