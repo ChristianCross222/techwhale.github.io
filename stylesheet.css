@@ -248,3 +248,15 @@ img {
       color: red;
     }
 }
+
+/************
+Social
+************/
+#social {
+  margin: auto;
+
+}
+#social li {
+  display: inline-block;
+
+}
